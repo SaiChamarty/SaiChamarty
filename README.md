@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 <!--
-**SaiChamarty/SaiChamarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate at UC Davis pursuing Computer Science major. 💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a full stack project based on iOS: Bucks Send 📱
+     Bucks Send is a payments app for iPhones.
+- 🌱 I’m currently learning Swift and C++
+- 👯 I’m looking to collaborate on a social learning application for iOS.
+- 🤔 I’m looking for an intenship that can help me further my understanding on Software Development
+- 💬 Ask me about anything in Software Development!
+- 📫 How to reach me: saiganeshchamarty@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I look forward towards learning and I like Maths!
 -->
