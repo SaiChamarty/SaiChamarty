@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 I am an undergraduate at UC Davis pursuing Computer Science major. 💻
 
 - 🔭 I’m currently working on a full stack project based on iOS: Bucks Send 📱
@@ -12,4 +11,3 @@ I am an undergraduate at UC Davis pursuing Computer Science major. 💻
 - 📫 How to reach me: saiganeshchamarty@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I look forward towards learning and I like Maths!
--->
