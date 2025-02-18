@@ -9,4 +9,4 @@ I am an undergraduate at UC Davis pursuing Computer Science major and Electrical
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I look forward towards learning and I like Engineering!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaiChamarty)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiChamarty)](https://github.com/SaiChamarty/github-readme-stats)
