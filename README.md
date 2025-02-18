@@ -8,3 +8,5 @@ I am an undergraduate at UC Davis pursuing Computer Science major and Electrical
 - 📫 How to reach me: saiganeshchamarty@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I look forward towards learning and I like Engineering!
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaiChamarty)](https://git.io/streak-stats)
