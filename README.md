@@ -10,4 +10,4 @@ I am an undergraduate at UC Davis pursuing Computer Science major and Electrical
 - ⚡ Fun fact: I look forward towards learning and I like Engineering!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiChamarty&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiChamarty&layout=donut)](https://github.com/SaiChamarty/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiChamarty&layout=compact)
