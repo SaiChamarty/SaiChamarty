@@ -11,3 +11,10 @@ I am an undergraduate at UC Davis pursuing Computer Science major and Electrical
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiChamarty&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiChamarty&layout=compact)
+
+<a href="https://github.com/SaiChamarty/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SaiChamarty" />
+</a>
+<a href="https://github.com/SaiChamarty/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiChamarty&layout=compact&langs_count=8&card_width=320" />
+</a>
