@@ -18,8 +18,8 @@ I am an undergraduate at UC Davis pursuing Computer Science major and Electrical
 
 
 <a href="https://github.com/SaiChamarty/github-readme-stats">
-  <img height=200 align="center" src="https://sais-github-readme-stats-two.vercel.app/api?username=SaiChamarty&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://readme.junebase.com/?username=SaiChamarty&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/SaiChamarty/convoychat">
-  <img height=200 align="center" src="https://sais-github-readme-stats-two.vercel.app/api/top-langs?username=SaiChamarty&layout=compact&langs_count=8&card_width=100&theme=transparent" />
+  <img height=200 align="center" src="https://readme.junebase.com/top-langs?username=SaiChamarty&layout=compact&langs_count=8&card_width=100&theme=transparent" />
 </a>
