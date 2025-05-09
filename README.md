@@ -1,5 +1,5 @@
 <h2 style="border-bottom: none;">👋 Hi, I’m Sai Chamarty</h2>
-<img src="https://media.giphy.com/media/A6Q5SsRmlRlmqLYsKK/giphy.gif" width="150" align="right" alt="Rotating Vinyl Record"/>
+<img src="https://media.giphy.com/media/A6Q5SsRmlRlmqLYsKK/giphy.gif" width="200" align="right" alt="Rotating Vinyl Record"/>
 <em>Undergrad @ UC Davis ’27 | CS Major & EE Minor 💻</em>
 
 - 🌱 **Tech Stack:** C++, Python, Swift  
