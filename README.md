@@ -1,20 +1,25 @@
-### Hi there 👋
+<h2 style="border-bottom: none;">👋 Hi, I’m Sai Chamarty</h2>
+<img src="https://media.giphy.com/media/A6Q5SsRmlRlmqLYsKK/giphy.gif" width="150" align="right" alt="Rotating Vinyl Record"/>
+<em>Undergrad @ UC Davis ’27 | CS Major & EE Minor 💻</em>
 
-I am an undergraduate at UC Davis pursuing Computer Science major and Electrical Engineering Minor. 💻
-
-- 🌱 I’m experienced in C++, Python and Swift.
-- 🤔 I’m looking for an intenship that can help me further my understanding on Machine Learning and App Development.
-- 💬 Ask me about anything in Software Development!
-- 📫 How to reach me: saiganeshchamarty@gmail.com
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I look forward towards learning and I like Engineering!
+- 🌱 **Tech Stack:** C++, Python, Swift  
+- 🤖 **Robotics Obsession:** Building humanoids inspired by _Enthiran_  
+- 🚀 **Seeking:** Internship in Machine Learning & App Development  
+- 💬 **Ask Me About:** Software dev, iOS apps, server infra & algorithms  
+- 📫 **Reach Me:** [saiganeshchamarty@gmail.com](mailto:saiganeshchamarty@gmail.com)  
+- 😄 **Pronouns:** he/him/his  
+- ⚡ **Fun Fact:** I dream in code and love all things engineering!  
 
 #### Languages:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> 
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" /> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 
 <a href="https://github.com/SaiChamarty/github-readme-stats">
